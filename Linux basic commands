@@ -1,3 +1,6 @@
+ 
+file premission  read -4 R      write -2 W      execute -1 X
+
 #lsof (lists the open files associated with your application)
 #ps 
 #iptables -S
