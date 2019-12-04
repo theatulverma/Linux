@@ -1,19 +1,32 @@
+#lsof (lists the open files associated with your application)
+#ps 
+#iptables -S
+#sestatus
+#history
+#sestatus application host
+#dig / nslookup A domain name server (DNS
+#ps -ef shows process status. Use this command to determine a running application
 #top
 #free -v
 #htop
+#man & --help 
 #touch atul(file name ) create file
 #mkdir atul (dirname) create dir
 #useradd (Create a new user or update default new user)
 #cp (copy file)
 #rm (removr files)
+#rmdir (remove dir)
 #groupadd (add group)
 #fuser (used to show which processes are using a specified computer file, file system)
 #ls -l (In computing, ls is a command to list computer files in Unix and Unix-like operating systems)
+#ls -R (shows all the files not only in directories but also subdirectories) 
 #pwd (command writes the full pathname of the current working directory)
+#du (to know the disk usage of a file in your system)
 #vi or #vim or #neno (screen-oriented text editor originally created for the Unix operating system)
 #mv (mv is a Unix command that moves one or more files or directories from one place to another)
-#rmdir (remove dir)
-#df (df is a standard Unix command used to display the amount of available disk space for file systems)
+#sudo (used command in the Linux command line, sudo stands for "SuperUser) 
+#cat (display the contents of a file. It is usually used to easily view programs)
+#df (command to see the available disk space in each of the partitions in your system)
 #tail  (logs display the tail end of a text file or piped data)
 #kill (command that is used in several popular operating systems to send signals to running processes)
 #fdisk (command-line utility that provides disk partitioning functions)
