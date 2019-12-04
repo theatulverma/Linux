@@ -1,0 +1,30 @@
+#top
+#free -v
+#htop
+#touch atul(file name ) create file
+#mkdir atul (dirname) create dir
+#useradd (Create a new user or update default new user)
+#cp (copy file)
+#rm (removr files)
+#groupadd (add group)
+#fuser (used to show which processes are using a specified computer file, file system)
+#ls -l (In computing, ls is a command to list computer files in Unix and Unix-like operating systems)
+#pwd (command writes the full pathname of the current working directory)
+#vi or #vim or #neno (screen-oriented text editor originally created for the Unix operating system)
+#mv (mv is a Unix command that moves one or more files or directories from one place to another)
+#rmdir (remove dir)
+#df (df is a standard Unix command used to display the amount of available disk space for file systems)
+#tail  (logs display the tail end of a text file or piped data)
+#kill (command that is used in several popular operating systems to send signals to running processes)
+#fdisk (command-line utility that provides disk partitioning functions)
+#grep  (command-line utility for searching plain-text data sets for lines that match a regular expression)
+#chown (abbreviation of change owner, is used on Unix and Unix-like operating systems to change the owner of file system file)
+#netstat (command-line network utility that displays network connections for Transmission)
+#ifconfig (system administration utility in Unix-like operating systems for network interface configuration)
+#echo (command that outputs the strings it is being passed as arguments. It is a command available in various operating system)
+#su (which stands for substitute user is used by a computer user to execute commands with the privileges of another user account)
+#chroot (that changes the apparent root directory for the current running process and its children)
+#chmod (In Unix and Unix-like operating systems, chmod is the command and system call which is used to change the access permissions of file system objects.)
+#chown (abbreviation of change owner, is used on Unix and Unix-like operating systems to change the owner of file system files,)
+#tree (In computing, tee is a command in command-line interpreters using standard streams which reads standard input and writes it to both standard output and one or more files,)
+#mount is a command in various operating systems. Before a user can access a file on a Unix-like machine, the file system that contains it needs to be mounted with the mount command. Frequently mount is used for SD card, USB storage
